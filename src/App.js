@@ -4,7 +4,7 @@ import Home from "./components/js/home";
 function App() {
   return (
     <>
-      <Home />
+          <Home />
     </>
   );
 }
